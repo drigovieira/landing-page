@@ -1,0 +1,1 @@
+Landing page feito em HTML e CSS para o curso de Javascript de Typescript. (Em andamento)
