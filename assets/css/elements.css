@@ -55,3 +55,23 @@ a {
 p {
     margin-bottom: 3rem;
 }
+
+/* link que ainda não foi visitado */
+/* a:link {
+    color: #ffffff;
+ } */
+ 
+ /* link que foi visitado */
+ a:visited {
+     color: #ffffff;
+ }
+ 
+ /* mouse over */
+ a:hover {
+     color: greenyellow;
+ }
+ 
+ /* link selecionado */
+ /* a:active {
+     color: #ffffff;
+ } */
