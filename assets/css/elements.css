@@ -75,3 +75,33 @@ p {
  /* a:active {
      color: #ffffff;
  } */
+
+.responsive-table {
+    overflow: hidden;
+    overflow-x: auto;
+}
+
+ table {
+     min-width: 36rem;
+     width: 100%;
+     border-collapse: collapse;
+ }
+
+ table caption {
+     font-style: italic;
+     font-size: 1.6rem;
+     text-align: left;
+     margin-bottom: 1rem;
+ }
+
+ table th, table td {
+     white-space: nowrap;
+     padding: 1rem;
+     text-align: left;
+     border-top: 0.1rem solid var(--light-gray-color);
+ }
+
+ tfoot td, table th {
+    background: var(--light-gray-color);
+
+ }
